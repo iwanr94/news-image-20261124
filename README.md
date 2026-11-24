@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iwanr94/news-image-20261124/blob/main/LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/iwanr94/news-image-20261124)](https://github.com/iwanr94/news-image-20261124)
 [![GitHub last commit](https://img.shields.io/github/last-commit/iwanr94/news-image-20261124)](https://github.com/iwanr94/news-image-20261124/commits/main)
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun rank](https://make.fun/badge/news-image-20261124/iwanr94/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun reward](https://make.fun/badge/news-image-20261124/iwanr94/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
 
 A single front-page image summing up Tuesday 24 November 2026 in world news,
 built for the make.fun bounty
